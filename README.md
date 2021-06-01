@@ -17,5 +17,5 @@ make clean
 
 # USAGE
 ```bash
-./my_runner
+./my_runner MAP_PATH
 ```
