@@ -1,0 +1,11 @@
+USAGE:
+
+     ./my_runner map
+
+
+DESCRIPTION:
+
+     Space = Jump
+     Escape = Pause menu
+     Right Click = attack
+     Left Click = Dodge
